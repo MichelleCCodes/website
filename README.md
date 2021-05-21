@@ -1,3 +1,3 @@
-# Thanks for visiting this repository!
+# Nice to meet you! 
 
-This site is currently under construction. :)
+You found my repo for my portfolio. Check it out [here](http://michelleccodes.me)!
