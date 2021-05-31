@@ -14,7 +14,7 @@ function HeroSection() {
           className="btns"
           buttonStyle="btn--outline"
           buttonSize="btn--large"
-          jump="https://docs.google.com/document/d/106Y2vduMVcoIrXkCT-tEVk3ADam53sbf-m-Dub2112A/edit?usp=sharing"
+          jump="https://docs.google.com/document/d/1z0HLpgZkopheVKhH6NYEcrcNCK9gT1fiWg8tS_PU_Ec/edit?usp=sharing"
         >
           Resume
         </Button>
