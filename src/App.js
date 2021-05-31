@@ -9,10 +9,8 @@ function App() {
   return (
     <div className="App">
         <NavBar />
-        <div className="scroll">
         <Home/>
         <Footer/>
-        </div>
     </div>
   );
 }

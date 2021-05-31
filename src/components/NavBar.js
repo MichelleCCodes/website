@@ -67,7 +67,7 @@ function Navbar() {
               </a>
             </li>
           </ul>
-          {button && <Button jump="https://docs.google.com/document/d/106Y2vduMVcoIrXkCT-tEVk3ADam53sbf-m-Dub2112A/edit?usp=sharing" buttonStyle='btn--outline'>RESUME</Button>}
+          {button && <Button jump="https://docs.google.com/document/d/1z0HLpgZkopheVKhH6NYEcrcNCK9gT1fiWg8tS_PU_Ec/edit?usp=sharing" buttonStyle='btn--outline'>RESUME</Button>}
         </div>
       </nav>
     </>
