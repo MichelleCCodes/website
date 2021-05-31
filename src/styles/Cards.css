@@ -31,6 +31,7 @@
     flex: 1;
     margin: 0 1rem;
     width:30vw;
+    /* height: 30vw; */
   }
   
   .cards__item__link {
